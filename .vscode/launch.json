@@ -7,7 +7,7 @@
       "request": "launch",
       "args": [],
       "cwd": "/Users/yang/data/DEV/C-Boot-Camp/homework",
-      "program": "/Users/yang/data/DEV/C-Boot-Camp/homework/build/Debug/outDebug"
+      "program": "${fileDirname}/${fileBasenameNoExtension}"
     }
   ]
 }
