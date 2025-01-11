@@ -57,6 +57,7 @@
     "stdio.h": "c",
     "数据类型长度.C": "cpp",
     "sizeof不计算.C": "cpp",
-    "ratio": "c"
+    "ratio": "c",
+    "逻辑取反操作符.C": "cpp"
   }
 }
