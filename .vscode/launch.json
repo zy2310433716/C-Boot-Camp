@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/yang/data/DEV/C-Boot-Camp/homework",
-      "program": "${fileDirname}/${fileBasenameNoExtension}"
+      "cwd": "/Users/yang/data/dev/C-Boot-Camp/homework/5.函数",
+      "program": "/Users/yang/data/dev/C-Boot-Camp/homework/5.函数/build/Debug/outDebug"
     }
   ]
 }
