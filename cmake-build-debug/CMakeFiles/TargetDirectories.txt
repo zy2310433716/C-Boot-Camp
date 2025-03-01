@@ -1,0 +1,3 @@
+/Users/yang/data/dev/C-Boot-Camp/cmake-build-debug/CMakeFiles/C_Boot_Camp.dir
+/Users/yang/data/dev/C-Boot-Camp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yang/data/dev/C-Boot-Camp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

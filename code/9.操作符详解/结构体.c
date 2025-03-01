@@ -22,5 +22,5 @@ struct Node
     int data;
     struct Point p;
     struct Node *next;
-} n1 = {10, {4, 5}, NULL};           // 结构体嵌套初始化
-struct Node n2 = {20, {5, 6}, NULL}; // 结构体嵌套初始化
+} n1 = {10, {4, 5}};           // 结构体嵌套初始化
+struct Node n2 = {20, {5, 6},}; // 结构体嵌套初始化
