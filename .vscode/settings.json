@@ -64,7 +64,8 @@
     "逻辑取反操作符.C": "cpp",
     "打印素数.C": "cpp",
     "数组的输入.C": "cpp",
-    "ios": "c"
+    "ios": "c",
+    "string.h": "c"
   },
   "marscode.codeCompletionPro": {
     "enableCodeCompletionPro": false
